@@ -60,6 +60,11 @@ This is a streamlit web application that can recommend various kinds of similar 
 <img src="11.png" width="70%">
 <img src="12.png" width="70%">
 <img src="13.png" width="70%">
+# Demo:
+
+<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/11.png" width="70%">
+<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/12.png" width="70%">
+<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/13.png" width="70%">
 
 
 # Dataset has been used:
