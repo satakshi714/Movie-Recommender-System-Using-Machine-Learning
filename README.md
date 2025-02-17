@@ -56,6 +56,12 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 
+#Demo: 
+<img src="11.png" width="70%">
+<img src="12.png" width="70%">
+<img src="13.png" width="70%">
+
+
 # Dataset has been used:
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
