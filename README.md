@@ -56,13 +56,9 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 
-#Demo: 
-<img src="11.png" width="70%">
-<img src="12.png" width="70%">
-<img src="13.png" width="70%">
 # Demo:
 
-<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/11.png" width="70%">
+<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/11.png">
 <img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/12.png" width="70%">
 <img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/13.png" width="70%">
 
