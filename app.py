@@ -29,8 +29,8 @@ try:
         from sklearn.metrics.pairwise import cosine_similarity
 
         # Load CSV
-        movies_df = pd.read_csv("data/tmdb_5000_movies.csv")
-        credits_df = pd.read_csv("data/tmdb_5000_credits.csv")
+        movies_df = pd.read_csv("archive/tmdb_5000_movies.csv")
+        credits_df = pd.read_csv("archive/tmdb_5000_credits.csv")
 
         # Merge
         movies_df = movies_df.merge(credits_df, on="title")

@@ -18,7 +18,6 @@ src.egg-info/
 *.log
 
 # Ignore dataset and artifacts
-archive/
 data/
 demo/
 artifacts/
