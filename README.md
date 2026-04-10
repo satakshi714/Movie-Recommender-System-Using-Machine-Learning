@@ -1,6 +1,6 @@
 # Project: Movie Recommender System Using Machine Learning!
-
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+Live Link
+https://movie-recommender-system-using-machine-learning.streamlit.app/
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -56,12 +56,6 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 
-# Demo:
-
-<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/11.png">
-<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/12.png" width="70%">
-<img src="https://raw.githubusercontent.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning/demo/images/13.png" width="70%">
-
 
 # Dataset has been used:
 
@@ -77,47 +71,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
 
-5 . For more details , check URL : https://www.learndatasci.com/glossary/cosine-similarity/
-
-# How to run?
-### STEPS:
-
-Clone the repository
-
-```bash
-https://github.com/satakshi714/Movie-Recommender-System-Using-Machine-Learning.git
-```
-### STEP 01- Create a conda environment after opening the repository
-
-```bash
-conda create -n movie python=3.7.10 -y
-```
-
-```bash
-conda activate movie
-```
 
 
-### STEP 02- install the requirements
-```bash
-pip install -r requirements.txt
-```
-
-
-```bash
-#run this file to generate the models
-
-Movie Recommender System Data Analysis.ipynb
-```
-
-Now run,
-```bash
-streamlit run app.py
-```
-
-
-```bash
-Author: Satakshi Agrawal
-Email: sky.satakshi@gmail.com
 
 ```
